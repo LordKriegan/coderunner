@@ -1,0 +1,24 @@
+{
+  "name": "coderunner",
+  "version": "1.0.0",
+  "description": "a fast way to write quick one-off snippets of code for demo purposes without having to manage/cleanup files",
+  "main": "coderunner.js",
+  "dependencies": {
+    "inquirer": "^6.5.0",
+    "rimraf": "^2.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordKriegan/coderunner.git"
+  },
+  "author": "Qamar A. Stationwala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordKriegan/coderunner/issues"
+  },
+  "homepage": "https://github.com/LordKriegan/coderunner#readme"
+}
